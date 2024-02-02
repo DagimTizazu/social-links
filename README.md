@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [SOURCE](https://github.com/DagimTizazu/social-links)
+- Live Site URL: [LIVE](https://social-links-sand.vercel.app/)
 
 ## My process
 
